@@ -1,4 +1,3 @@
-[![h1n054ur - js-typing-gif](https://img.shields.io/static/v1?label=h1n054ur&message=js-typing-gif&color=blue&logo=github)](https://github.com/h1n054ur/js-typing-gif)
 [![h1n054ur - js-typing-gif](https://img.shields.io/static/v1?label=codesandbox&message=js-typing-gif&color=blue&logo=github)](https://codesandbox.io/s/github/h1n054ur/js-typing-gif)
 [![stars - js-typing-gif](https://img.shields.io/github/stars/h1n054ur/js-typing-gif?style=social)](https://github.com/h1n054ur/js-typing-gif)
 [![forks - js-typing-gif](https://img.shields.io/github/forks/h1n054ur/js-typing-gif?style=social)](https://github.com/h1n054ur/js-typing-gif)
